@@ -1,10 +1,10 @@
 # UNet
  Applying UNet for tracking locusts
 
-Examples of applying model to track locust palps
+Examples of applying model to track locust palps. Palps are the small appendages in front of the locust mouths that resemble tiny arms. 
 
 In each video:
-- Top left panel is original acquired video 
+- Top left panel is original video - the locust palps can be seen as two arm-like structures below the mouthparts. 
 - Top right panel is palps tracked and isolated 
 - Bottom panel is distance between centroid of tracked palps
 
