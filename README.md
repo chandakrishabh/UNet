@@ -1,8 +1,12 @@
 # UNet
  Applying UNet for tracking locusts
 
+Examples of applying model to track locust palps
 
-https://user-images.githubusercontent.com/22692457/126075261-ea781591-0246-4655-a18f-3d776348203d.mp4
+In each video:
+- Top left panel is original acquired video 
+- Top right panel is palps tracked and isolated 
+- Bottom panel is distance between centroid of tracked palps
 
 
 
